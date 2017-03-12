@@ -2,9 +2,9 @@
 
 画面イメージ　　
 
-https://github.com/masahiro-okubo/DataOperations/tree/master/img/メイン画面.png
+https://github.com/masahiro-okubo/DataOperation/blob/master/img/%E3%83%A1%E3%82%A4%E3%83%B3%E7%94%BB%E9%9D%A2.png
 
-https://github.com/masahiro-okubo/DataOperations/tree/master/img/遷移後画面.png
+https://github.com/masahiro-okubo/DataOperation/blob/master/img/%E9%81%B7%E7%A7%BB%E5%BE%8C%E7%94%BB%E9%9D%A2.png
 
 
 下記サイト参考　　
