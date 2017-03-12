@@ -10,6 +10,10 @@ import UIKit
 
 class ViewController: UIViewController {
     
+    
+    //DBから取得したと仮定した配列
+    let array = ["大久保"]
+    
     //移動対象のオブジェクト
     @IBOutlet weak var testlabel_1: UILabel!
     @IBOutlet weak var testlabel_2: UILabel!
@@ -23,6 +27,22 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+
+        for i in 0 ..< array.count {
+            //作業者の名前をラベルに設定する
+            testlabel_1.text = array[i]
+            //ラベル内のテキストを中央寄せに設定
+            testlabel_1.textAlignment = NSTextAlignment.center
+        }
+        
+        //個別に作業者の名前をラベルに設定する
+        testlabel_2.text = "上本"
+        testlabel_3.text = "遠畑"
+        
+        //個別にラベル内のテキストを中央寄せに設定
+        testlabel_2.textAlignment = NSTextAlignment.center
+        testlabel_3.textAlignment = NSTextAlignment.center
     }
     
     //ラベルA
