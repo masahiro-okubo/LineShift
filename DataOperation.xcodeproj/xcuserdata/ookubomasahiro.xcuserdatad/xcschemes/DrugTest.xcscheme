@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E554BFE11E3E31BF0031463E"
-               BuildableName = "PageTransitions.app"
-               BlueprintName = "PageTransitions"
-               ReferencedContainer = "container:PageTransitions.xcodeproj">
+               BuildableName = "DataOperation.app"
+               BlueprintName = "DataOperation"
+               ReferencedContainer = "container:DataOperation.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E554BFF51E3E31C00031463E"
-               BuildableName = "PageTransitionsTests.xctest"
-               BlueprintName = "PageTransitionsTests"
-               ReferencedContainer = "container:PageTransitions.xcodeproj">
+               BuildableName = "DataOperationTests.xctest"
+               BlueprintName = "DataOperationTests"
+               ReferencedContainer = "container:DataOperation.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E554C0001E3E31C00031463E"
-               BuildableName = "PageTransitionsUITests.xctest"
-               BlueprintName = "PageTransitionsUITests"
-               ReferencedContainer = "container:PageTransitions.xcodeproj">
+               BuildableName = "DataOperationUITests.xctest"
+               BlueprintName = "DataOperationUITests"
+               ReferencedContainer = "container:DataOperation.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E554BFE11E3E31BF0031463E"
-            BuildableName = "PageTransitions.app"
-            BlueprintName = "PageTransitions"
-            ReferencedContainer = "container:PageTransitions.xcodeproj">
+            BuildableName = "DataOperation.app"
+            BlueprintName = "DataOperation"
+            ReferencedContainer = "container:DataOperation.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E554BFE11E3E31BF0031463E"
-            BuildableName = "PageTransitions.app"
-            BlueprintName = "PageTransitions"
-            ReferencedContainer = "container:PageTransitions.xcodeproj">
+            BuildableName = "DataOperation.app"
+            BlueprintName = "DataOperation"
+            ReferencedContainer = "container:DataOperation.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E554BFE11E3E31BF0031463E"
-            BuildableName = "PageTransitions.app"
-            BlueprintName = "PageTransitions"
-            ReferencedContainer = "container:PageTransitions.xcodeproj">
+            BuildableName = "DataOperation.app"
+            BlueprintName = "DataOperation"
+            ReferencedContainer = "container:DataOperation.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
