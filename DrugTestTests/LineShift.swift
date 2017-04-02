@@ -1,15 +1,15 @@
 //
-//  DrugTestTests.swift
-//  DrugTestTests
+//  LineShiftTests.swift
+//  LineShiftTests
 //
-//  Created by 大久保将博 on 2017/01/29.
+//  Created by 大久保将博 on 2017/04/3.
 //  Copyright © 2017年 大久保将博. All rights reserved.
 //
 
 import XCTest
-@testable import PageTransitionsTests
+@testable import LineShiftTests
 
-class PageTransitionsTests: XCTestCase {
+class LineShiftTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

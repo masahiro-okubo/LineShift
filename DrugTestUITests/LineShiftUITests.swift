@@ -1,14 +1,14 @@
 //
-//  DrugTestUITests.swift
-//  DrugTestUITests
+//  LineShiftUITests.swift
+//  LineShiftUITests
 //
-//  Created by 大久保将博 on 2017/01/29.
+//  Created by 大久保将博 on 2017/04/3.
 //  Copyright © 2017年 大久保将博. All rights reserved.
 //
 
 import XCTest
 
-class DataOperationUITests: XCTestCase {
+class LineShiftUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

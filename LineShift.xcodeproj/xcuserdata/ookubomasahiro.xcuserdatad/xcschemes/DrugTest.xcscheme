@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E554BFE11E3E31BF0031463E"
-               BuildableName = "DataOperation.app"
-               BlueprintName = "DataOperation"
-               ReferencedContainer = "container:DataOperation.xcodeproj">
+               BuildableName = "LineShift.app"
+               BlueprintName = "LineShift"
+               ReferencedContainer = "container:LineShift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E554BFF51E3E31C00031463E"
-               BuildableName = "DataOperationTests.xctest"
-               BlueprintName = "DataOperationTests"
-               ReferencedContainer = "container:DataOperation.xcodeproj">
+               BuildableName = "LineShiftTests.xctest"
+               BlueprintName = "LineShiftTests"
+               ReferencedContainer = "container:LineShift.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E554C0001E3E31C00031463E"
-               BuildableName = "DataOperationUITests.xctest"
-               BlueprintName = "DataOperationUITests"
-               ReferencedContainer = "container:DataOperation.xcodeproj">
+               BuildableName = "LineShiftUITests.xctest"
+               BlueprintName = "LineShiftUITests"
+               ReferencedContainer = "container:LineShift.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E554BFE11E3E31BF0031463E"
-            BuildableName = "DataOperation.app"
-            BlueprintName = "DataOperation"
-            ReferencedContainer = "container:DataOperation.xcodeproj">
+            BuildableName = "LineShift.app"
+            BlueprintName = "LineShift"
+            ReferencedContainer = "container:LineShift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E554BFE11E3E31BF0031463E"
-            BuildableName = "DataOperation.app"
-            BlueprintName = "DataOperation"
-            ReferencedContainer = "container:DataOperation.xcodeproj">
+            BuildableName = "LineShift.app"
+            BlueprintName = "LineShift"
+            ReferencedContainer = "container:LineShift.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E554BFE11E3E31BF0031463E"
-            BuildableName = "DataOperation.app"
-            BlueprintName = "DataOperation"
-            ReferencedContainer = "container:DataOperation.xcodeproj">
+            BuildableName = "LineShift.app"
+            BlueprintName = "LineShift"
+            ReferencedContainer = "container:LineShift.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
