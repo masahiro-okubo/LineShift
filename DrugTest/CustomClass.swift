@@ -1,6 +1,6 @@
 //
 //  CustomClass.swift
-//  DragTest
+//  LineShift
 //
 //  Created by 大久保将博 on 2017/02/26.
 //  Copyright © 2017年 大久保将博. All rights reserved.
